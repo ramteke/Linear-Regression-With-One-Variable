@@ -36,3 +36,6 @@ The 'repeat until' refers to number of times this formula should be executed.
 Now that theta is available, Try predicting Y value for some X
 
 ex. for X = 7,   Y = [ 1 , 7 ] * theta
+
+
+Reference:  https://www.coursera.org/learn/machine-learning
